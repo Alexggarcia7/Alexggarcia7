@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola, soy Alejandro 👋 | Junior Data Analyst
 
-<!--
-**Alexggarcia7/Alexggarcia7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduado en Economía orientado al **Análisis de Datos y Business Intelligence**. Especializado en transformar microdatos y bases de datos relacionales en insights de negocio y cuadros de mando mediante **SQL, Python y Power BI**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Stack Técnico
+
+* **Lenguajes & Análisis:** Python (Pandas, NumPy, Statsmodels, SciPy), SQL (Consultas relacionales, vistas, modelado)
+* **Visualización & BI:** Microsoft Power BI (DAX, diseño de reporting), Matplotlib, Seaborn, Excel avanzado
+* **Entornos de Trabajo:** Microsoft SQL Server, Git/GitHub
+
+---
+
+### 📌 Proyectos Destacados
+
+* **[wage-dispersion-analysis](https://github.com/Alexggarcia7/wage-dispersion-analysis):** Estudio econométrico sobre retornos salariales en el mercado laboral mediante regresión lineal multivariante (MCO), contraste de heterocedasticidad y análisis visual en Python.
+
+---
+
+### 📫 Contacto
+* **Ubicación:** Granada, España (Disponible para esquemas en remoto e híbridos)
