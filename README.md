@@ -6,8 +6,8 @@ Graduado en Economía orientado al **Análisis de Datos y Business Intelligence*
 
 ### 💻 Stack Técnico
 
-* **Lenguajes & Análisis:** Python (Pandas, NumPy, Statsmodels, SciPy), SQL (Consultas relacionales, vistas, modelado)
-* **Visualización & BI:** Microsoft Power BI (DAX, diseño de reporting), Matplotlib, Seaborn, Excel avanzado
+* **Lenguajes & Análisis:** Python (Pandas, Statsmodels), SQL
+* **Visualización & BI:** Microsoft Power BI (DAX, diseño de reporting), Excel 
 * **Entornos de Trabajo:** Microsoft SQL Server, Git/GitHub
 
 ---
